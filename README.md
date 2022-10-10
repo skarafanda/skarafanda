@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Shane (◑‿◐) <br> 
-  A Data Scientist from Atlanta, Georgia
+  A Business Analyst from Atlanta, Georgia
 </h1>
 
 
