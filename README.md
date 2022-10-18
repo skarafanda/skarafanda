@@ -10,7 +10,7 @@
 <li> My favorite Excel function </li>
 
 ## 💻 Current projects
-<li> Learning Git and moving R Markdown HWs over </li>
+<li> Learning Git and R Markdown </li>
 <li> Exploring NHL API </li>
 
 ## 📅 Hobbies
