@@ -7,7 +7,6 @@
 
 ## 💬 Ask me about
 <li> Regression models </li>
-<li> R vs Python </li>
 <li> My favorite Excel function </li>
 
 ## 💻 Current projects
@@ -22,6 +21,7 @@
 
 ## 📚 Learning
 <li> Database Management </li>
+<li> Postman API? </li>
 <li> R Markdown (making it look not bad) </li>
   
 
