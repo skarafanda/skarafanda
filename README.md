@@ -16,7 +16,7 @@
 ## 📅 Hobbies
 <li> Creating models to learn more about sports phenomena </li>
 <li> Keeping up with the NHL </li>
-<li> Playing a random sport with the mandem </li>
+<li> Playing a random sport with friends </li>
 <li> Looking after my water-propogated fig plant (almost a year old) </li>
 
 ## 📚 Learning
