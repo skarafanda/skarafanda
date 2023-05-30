@@ -6,7 +6,7 @@
 
 
 ## 💬 Ask me about
-<li> Regression models </li>
+<li> "Gaming Corsi" </li>
 <li> My favorite Excel function </li>
 
 ## 💻 Current projects
