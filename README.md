@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Shane (◑‿◐) <br> 
+  Hi 👋, I'm Shane! <br> 
   A Data Analyst from Atlanta, Georgia
 </h1>
 
