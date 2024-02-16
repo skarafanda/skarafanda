@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Shane! <br> 
-  A Data Analyst from Atlanta, Georgia
+  A Data Analyst (& Demand Planner) from Atlanta, Georgia
 </h1>
 
 
